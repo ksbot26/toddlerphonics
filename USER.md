@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** Keyur
 - **Pronouns:** 
 - **Timezone:** America/Los_Angeles
-- **Notes:** Prefers a personality that adapts and reflects their own style.
+- **Notes:** Prefers a personality that adapts and reflects their own style. Likes straight, fluff-free communication. Mid-tier humor.
 
 ## Context
 
