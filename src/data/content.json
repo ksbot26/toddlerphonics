@@ -1,0 +1,106 @@
+{
+  "levels": [
+    {
+      "id": "easy",
+      "name": "Easy",
+      "icon": "🌟",
+      "description": "Basic letters & sounds",
+      "activities": [
+        {
+          "id": "letter-a",
+          "type": "phonics",
+          "title": "The Letter A",
+          "words": ["apple", "ant", "airplane", "ambulance"],
+          "phoneme": "ah",
+          "hint": "A says ah, like in apple!"
+        },
+        {
+          "id": "letter-b",
+          "type": "phonics",
+          "title": "The Letter B",
+          "words": ["ball", "bird", "bear", "banana"],
+          "phoneme": "buh",
+          "hint": "B says buh, like in ball!"
+        },
+        {
+          "id": "letter-c",
+          "type": "phonics",
+          "title": "The Letter C",
+          "words": ["cat", "car", "cup", "cow"],
+          "phoneme": "kuh",
+          "hint": "C says kuh, like in cat!"
+        }
+      ]
+    },
+    {
+      "id": "medium",
+      "name": "Medium",
+      "icon": "🌈",
+      "description": "Short vowel words",
+      "activities": [
+        {
+          "id": "short-a",
+          "type": "phonics",
+          "title": "Short A Words",
+          "words": ["hat", "sat", "map", "pan", "bag", "rag"],
+          "phoneme": "æ",
+          "hint": "Short a sounds like a in hat"
+        },
+        {
+          "id": "short-e",
+          "type": "phonics",
+          "title": "Short E Words",
+          "words": ["bed", "red", "leg", "jet", "net", "pen"],
+          "phoneme": "ɛ",
+          "hint": "Short e sounds like e in bed"
+        }
+      ]
+    },
+    {
+      "id": "hard",
+      "name": "Hard",
+      "icon": "🚀",
+      "description": "Blends & digraphs",
+      "activities": [
+        {
+          "id": "blends",
+          "type": "phonics",
+          "title": "Consonant Blends",
+          "words": ["frog", "tree", "star", "play", "frog"],
+          "phoneme": "blend",
+          "hint": "Two consonants together!"
+        }
+      ]
+    },
+    {
+      "id": "extra",
+      "name": "Extra",
+      "icon": "🏆",
+      "description": "Advanced readers",
+      "activities": [
+        {
+          "id": "long-vowels",
+          "type": "phonics",
+          "title": "Long Vowels",
+          "words": ["cake", "home", "like", "bike", "use"],
+          "phoneme": "long",
+          "hint": "Vowel says its name!"
+        }
+      ]
+    }
+  ],
+  "prizes": [
+    { "id": "star-1", "emoji": "⭐", "name": "Star Collector", "requirement": 1 },
+    { "id": "star-5", "emoji": "🌟", "name": "Super Star", "requirement": 5 },
+    { "id": "medal-bronze", "emoji": "🥉", "name": "Bronze Medal", "requirement": 10 },
+    { "id": "medal-silver", "emoji": "🥈", "name": "Silver Medal", "requirement": 20 },
+    { "id": "medal-gold", "emoji": "🥇", "name": "Gold Medal", "requirement": 50 },
+    { "id": "trophy", "emoji": "🏆", "name": "Phonics Champion", "requirement": 100 }
+  ],
+  "settings": {
+    "defaultDifficulty": "easy",
+    "soundEnabled": true,
+    "hintEnabled": true,
+    "parentPin": "1234"
+  }
+}
