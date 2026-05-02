@@ -167,7 +167,8 @@ Skills provide your tools. When you need one, check its `SKILL.md`. Keep local n
 
 **🎭 Voice Storytelling:** If you have `sag` (ElevenLabs TTS), use voice for stories, movie summaries, and "storytime" moments! Way more engaging than walls of text. Surprise people with funny voices.
 
-**📚 Short Story Selection:** When selecting short stories (e.g., for AI Stories group), always reference `~/projects/short-stories/wiki/preferences.md` first. Keyur's preferences there supersede any default assumptions.
+**📚 Short Story Selection:** When selecting short stories (e.g., for AI Stories group), always reference `~/projects/short-stories/wiki/preferences.md` first. Keyur's preferences there supersede any default assumptions. Also: prefer **lighter weight stories** (slice of life, feel-good, human interest, comedy) — dark/heavy should be the exception, not the default.
+- **Stories I Liked**: `~/projects/short-stories-kb/stories-i-liked.md` — reference when selecting stories to ingest
 
 **📝 Platform Formatting:**
 
